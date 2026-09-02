@@ -11,7 +11,9 @@ describe('AnomalyDetectionStrategy (Feature 2)', () => {
     vi.restoreAllMocks();
   });
 
-  // Example of how to write and mock in your tests:
+  // Owner: Carl
+  //
+  //Example of how to write and mock in your tests:
   //
   // it('should detect outlier transactions exceeding threshold', async () => {
   //   const mockRules = { maxTransactionAmount: 500.00, flaggedStatuses: ['flagged'] };
